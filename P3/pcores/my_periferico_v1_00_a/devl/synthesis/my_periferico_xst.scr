@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\hlocal\Practica3segundointento\pcores\my_periferico_v1_00_a\devl\synthesis\my_periferico_xst.prj"
+-top my_periferico
+-p virtex6
+-ofn "C:\hlocal\Practica3segundointento\pcores\my_periferico_v1_00_a\devl\synthesis\my_periferico_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib my_periferico_v1_00_a

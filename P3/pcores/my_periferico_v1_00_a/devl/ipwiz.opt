@@ -1,0 +1,10 @@
+-batch 
+-create my_periferico 
+-ver 1.00.a 
+-dir "C:\hlocal\Practica3segundointento" 
+-lang vhdl 
+-bus plbv46 s 
+-reg 4 
+-xps 
+-ise 
+-driver 

@@ -1,0 +1,15 @@
+##############################################################################
+## Filename:          C:\hlocal\Practica3segundointento/drivers/my_periferico_v1_00_a/data/my_periferico_v2_1_0.mdd
+## Description:       Microprocessor Driver Definition
+## Date:              Mon Oct 18 17:07:10 2021 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+OPTION psf_version = 2.1.0;
+
+BEGIN DRIVER my_periferico
+
+  OPTION supported_peripherals = (my_periferico);
+  OPTION depends = (common_v1_00_a);
+  OPTION copyfiles = all;
+
+END DRIVER

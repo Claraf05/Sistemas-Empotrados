@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          C:/hlocal/Practica3segundointento/pcores/my_periferico_v1_00_a/data/my_periferico_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Mon Oct 18 17:07:06 2021 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib plbv46_slave_single_v1_01_a  all 
+lib my_periferico_v1_00_a user_logic vhdl
+lib my_periferico_v1_00_a my_periferico vhdl
