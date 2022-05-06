@@ -1,0 +1,11 @@
+##############################################################################
+## Filename:          C:/hlocal/PROYECTO/pcores/keypad_v1_00_a/data/keypad_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sat Jan 29 19:49:06 2022 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib plbv46_slave_single_v1_01_a  all 
+lib keypad_v1_00_a user_logic vhdl
+lib keypad_v1_00_a keypad vhdl
+lib keypad_v1_00_a teclaDetect vhdl

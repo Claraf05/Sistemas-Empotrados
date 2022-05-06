@@ -1,0 +1,10 @@
+-batch 
+-create banner 
+-ver 1.00.a 
+-dir "C:\hlocal\PROYECTO" 
+-lang vhdl 
+-bus plbv46 s 
+-wfifo 1 512 
+-xps 
+-ise 
+-driver 

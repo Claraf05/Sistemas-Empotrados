@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\hlocal\PROYECTO\pcores\banner_v1_00_a\devl\synthesis\banner_xst.prj"
+-top banner
+-p virtex6
+-ofn "C:\hlocal\PROYECTO\pcores\banner_v1_00_a\devl\synthesis\banner_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib banner_v1_00_a

@@ -1,0 +1,12 @@
+##############################################################################
+## Filename:          C:/hlocal/PROYECTO/pcores/banner_v1_00_a/data/banner_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sun Jan 30 08:50:18 2022 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib plbv46_slave_single_v1_01_a  all 
+lib wrpfifo_v5_01_a  all 
+lib banner_v1_00_a user_logic vhdl
+lib banner_v1_00_a banner vhdl
+lib banner_v1_00_a bannerDesp vhdl

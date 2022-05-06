@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "C:\hlocal\PROYECTO\pcores\keypad_v1_00_a\devl\synthesis\keypad_xst.prj"
+-top keypad
+-p virtex6
+-ofn "C:\hlocal\PROYECTO\pcores\keypad_v1_00_a\devl\synthesis\keypad_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib keypad_v1_00_a
